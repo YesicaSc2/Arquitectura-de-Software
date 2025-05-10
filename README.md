@@ -1,5 +1,6 @@
 # Arquitectura-de-Software
 Patrones de diseño
+-------------------
 Service Locator: Es un patrón creacional que proporciona una manera centralizada de registrar y acceder a servicios sin acoplar directamente las clases que los usan.
 Aplicación: Tenemos una clase central (ServiceLocator) que guarda servicios como pago y descuento. Así, podemos acceder desde cualquier parte del código sin acoplar directamente.
 
